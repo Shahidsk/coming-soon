@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coming-soon/static/css/main.c8fa19a8.css",
-    "main.js": "/coming-soon/static/js/main.c274674f.js",
+    "main.js": "/coming-soon/static/js/main.3f4620c6.js",
     "static/js/239.6858488f.chunk.js": "/coming-soon/static/js/239.6858488f.chunk.js",
     "static/js/213.fd34f1f9.chunk.js": "/coming-soon/static/js/213.fd34f1f9.chunk.js",
     "static/js/732.25e1e98a.chunk.js": "/coming-soon/static/js/732.25e1e98a.chunk.js",
     "static/js/453.7b54bdd3.chunk.js": "/coming-soon/static/js/453.7b54bdd3.chunk.js",
     "index.html": "/coming-soon/index.html",
     "main.c8fa19a8.css.map": "/coming-soon/static/css/main.c8fa19a8.css.map",
-    "main.c274674f.js.map": "/coming-soon/static/js/main.c274674f.js.map",
+    "main.3f4620c6.js.map": "/coming-soon/static/js/main.3f4620c6.js.map",
     "239.6858488f.chunk.js.map": "/coming-soon/static/js/239.6858488f.chunk.js.map",
     "213.fd34f1f9.chunk.js.map": "/coming-soon/static/js/213.fd34f1f9.chunk.js.map",
     "732.25e1e98a.chunk.js.map": "/coming-soon/static/js/732.25e1e98a.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.c8fa19a8.css",
-    "static/js/main.c274674f.js"
+    "static/js/main.3f4620c6.js"
   ]
 }
