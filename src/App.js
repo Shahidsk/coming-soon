@@ -9,7 +9,7 @@ import StudentListPage from './components/StudentListPage';
 function App() {
   return (
     <Router>
-      <Routes>
+      <Routes basename='https://ashuganjtrainingcenter.com/'>
         <Route path="/" element={<LandingPage />} />
         <Route path="/login" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
