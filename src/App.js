@@ -8,7 +8,7 @@ import StudentListPage from './components/StudentListPage';
 
 function App() {
   return (
-    <Router basename='/coming-soon'>
+    <Router>
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/login" element={<Login />} />
